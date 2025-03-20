@@ -12,15 +12,14 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-FF6F00?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-``
+<!--
 ## 🔥 Proyectos Destacados
 🚀 **[AI Chatbot Framework](https://github.com/BlakIA/ai-chatbot-framework)** - Chatbots inteligentes con NLP avanzado.  
 ⚡ **[n8n Automation Toolkit](https://github.com/BlakIA/n8n-automation-toolkit)** - Automatizaciones listas para usar.  
 🔍 **[AI-Enhanced Data Scraper](https://github.com/BlakIA/ai-data-scraper)** - Extracción de datos con AI.  
-``
+-->
 ## 💼 ¿Quieres trabajar con nosotros?
-📩 Contáctanos en [LinkedIn](https://linkedin.com/) | [Website](https://blakia.com) | [Email](mailto:contacto@blakia.com)  
-
+📩 Contáctanos en [LinkedIn](https://www.linkedin.com/company/blakiatech/) | [Website](https://blakia.com) | [Email](mailto:blakia@gmail.com)  
 
 ---
 
