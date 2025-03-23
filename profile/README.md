@@ -19,7 +19,7 @@
 🔍 **[AI-Enhanced Data Scraper](https://github.com/BlakIA/ai-data-scraper)** - Extracción de datos con AI.  
 -->
 ## 💼 ¿Quieres trabajar con nosotros?
-📩 Contáctanos en [LinkedIn](https://www.linkedin.com/company/blakiatech/) | [Website](https://blakia.com) | [Email](mailto:blakia@gmail.com)  
+📩 Contáctanos en [LinkedIn](https://www.linkedin.com/company/blakiatech/) | [Website](https://blakiatech.github.io/) | [Email](mailto:blakiatech@gmail.com)  
 
 ---
 
